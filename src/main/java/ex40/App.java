@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 2 Solutions
+ *  Copyright 2021 Kevin Schiffli
+ */
 package ex40;
 
 import java.util.*;

@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 2 Solutions
+ *  Copyright 2021 Kevin Schiffli
+ */
 package ex37;
 
 import org.junit.jupiter.api.Test;
@@ -18,7 +22,7 @@ class PasswordGeneratorTest {
         boolean sCharFlag = false;
         boolean lengthFlag = false;
 
-        for (int i = 0; i < 1000; i++)
+        for (int i = 0; i < 100; i++)
         {
             String password = pg.generatePassword(8,2,2);
             char[] passwordArr = password.toCharArray();

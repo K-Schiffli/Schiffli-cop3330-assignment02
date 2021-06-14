@@ -1,6 +1,9 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 2 Solutions
+ *  Copyright 2021 Kevin Schiffli
+ */
 package ex31;
 
-import ex27.DataValidator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
